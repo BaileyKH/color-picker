@@ -1,4 +1,3 @@
-
 const colorPicker = document.getElementById("color-picker");
 const colorMode = document.getElementById("mode");
 const output = document.getElementById("color-container");
