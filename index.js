@@ -4,6 +4,7 @@ const output = document.getElementById("color-container");
 const colorButton = document.getElementById("color-btn");
 const hexOutput = document.getElementById("hex-container");
 
+// Function for generating a random color
 function handleColorGeneration() {
     let color = colorPicker.value.slice(1);
     let mode = colorMode.value;
