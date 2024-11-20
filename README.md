@@ -1,6 +1,6 @@
 # Color Scheme Generator
 
-This application is a color scheme generator that allows users to select a color and a scheme mode to generate and display a variety of color schemes based on their choice. Users can see the color in both visual form and hex code, and can interact with the color outputs.
+This application is a color scheme generator that allows users to select a color and a scheme mode to generate and display a variety of color schemes based on their choice. Users can see the color in both visual form and hex code, as well as interact with the color outputs.
 
 ## Features
 
